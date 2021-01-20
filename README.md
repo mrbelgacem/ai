@@ -1,2 +1,2 @@
 # ai
-repo of AI , machin learning , deep learning project
+AI , machin learning , deep learning project
